@@ -14,7 +14,7 @@ print (ww, hh)
 
 detector = mtcnn.MTCNN()
 
-mod = models.load_model('model_1.h5')
+mod = models.load_model('model_2.h5')
 
 font = cv2.FONT_HERSHEY_SIMPLEX
     
